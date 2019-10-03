@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Matt Miller
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,37 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: NC State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests Bayesian methods for large spatial data sets and applying new statistical methodologies election research, materials science, and public policy.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bayesian Inference
+- Methods for Spatial Data
+- Public Policy
+- Elections and Gerrymandering
+- Statistical Consulting
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Statistics
+    institution: North Carolina State University
+    year: 2021
+  - course: MR in Statistics
+    institution: North Carolina State University
+    year: 2018
+  - course: MA in Teaching, Secondary Mathematics
+    institution: Duke University
+    year: 2014
+  - course: BA in Mathematics, Magna Cum Laude
+    institution: St. Mary's College of Maryland
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,29 +52,27 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/Stat_Miller
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/matthew-miller-05725a52/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/statmiller
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I'm a PhD student in the [Department of Statistics](https://www.stat.ncsu.edu/) at North Carolina State University and am advised by [Dr. Brian Reich](https://www4.stat.ncsu.edu/~reich/index.html). I am interested in developing Bayesian statistics methods for spatial data, and applying these methods to a variety of fields. In particular, I love collaborating with non-statisticians to apply our work in materials science, political science, and public policy settings. I am a former [NSF SEAS Fellow](https://www.mse.ncsu.edu/seas/), and have provided statistical consulting services to researchers at the Environmental Protection Agency and to an online clothing retailer.
