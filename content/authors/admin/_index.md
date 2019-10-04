@@ -23,9 +23,9 @@ bio: My research interests Bayesian methods for large spatial data sets and appl
 interests:
 - Bayesian Inference
 - Methods for Spatial Data
-- Public Policy
 - Elections and Gerrymandering
 - Statistical Consulting
+- Public Policy
 
 education:
   courses:
@@ -75,4 +75,4 @@ email: ""
 # - Visitors
 ---
 
-I'm a PhD student in the [Department of Statistics](https://www.stat.ncsu.edu/) at North Carolina State University and am advised by [Dr. Brian Reich](https://www4.stat.ncsu.edu/~reich/index.html). I am interested in developing Bayesian statistics methods for spatial data, and applying these methods to a variety of fields. In particular, I love collaborating with non-statisticians to apply our work in materials science, political science, and public policy settings. I am a former [NSF SEAS Fellow](https://www.mse.ncsu.edu/seas/traineeship/#custom-tab-0-aa1e3b4f1a47d8195147da18eb4cd9a4), and have provided statistical consulting services to researchers at the Environmental Protection Agency and to an online clothing retailer.
+I'm a PhD student in the [Department of Statistics](https://www.stat.ncsu.edu/) at North Carolina State University and am advised by [Dr. Brian Reich](https://www4.stat.ncsu.edu/~reich/index.html). I am interested in developing Bayesian statistics methods for spatial data, and applying these methods to a variety of fields. In particular, I love collaborating with non-statisticians to apply our work in materials science, political science, and public policy settings. I am a former [NSF SEAS Fellow](https://www.mse.ncsu.edu/seas/traineeship/#custom-tab-0-aa1e3b4f1a47d8195147da18eb4cd9a4), and have provided statistical consulting services to researchers at the Environmental Protection Agency and to an online retailer.
