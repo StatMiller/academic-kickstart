@@ -1,6 +1,6 @@
 ---
-title: Spectral Spatial Methods
-summary: An example of using the in-built project page.
+title: Spectral Methods For Spatial Data
+summary: New method in development.
 tags:
 - Spectral Statistics
 date: "2016-04-27T00:00:00Z"
