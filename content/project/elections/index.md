@@ -19,7 +19,7 @@ links:
   name: Follow
   url: https://twitter.com/stat_miller
 url_code: ""
-url_pdf: ""
+url_pdf: files/NCElectionPoster.pdf
 url_slides: ""
 url_video: ""
 
