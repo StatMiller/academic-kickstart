@@ -1,5 +1,5 @@
 ---
-title: "Possibility measures for valid statistical inference based on censored data"
+title: "Accounting for Location Measurement Error in Atomic Resolution Images of Crystalline Materials"
 authors:
 - Matthew Miller
 - Matthew Cabral
