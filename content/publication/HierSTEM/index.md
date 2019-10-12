@@ -16,8 +16,8 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Submitted July 2019*
-publication_short: *Submitted July 2019*
+publication: In *Submitted July 2019*
+publication_short: In *Submitted July 2019*
 
 abstract: Scanning transmission electron microscopy can directly image the atomic structure of materials. To resolve this structure, the material must be aligned along a direction such that columns of atoms are projected onto the image. The local relationships between the intensities and distances of these projected atom columns can inform our understanding of structure--property relationships to ultimately further improve the materials. Measurement error in the atom column locations can, however, introduce bias into parameter estimates. Here, we create a spatial Bayesian hierarchical model that treats the locations as parameters to account for measurement error, and lower the computational burden by approximating the likelihood using a non-contiguous block design around the atom columns. We conduct a simulation study and analyze real data to compare our model to standard spatial and non-spatial models. The results show our method corrects the bias in the parameter of interest, drastically improving upon the standard models.
 
