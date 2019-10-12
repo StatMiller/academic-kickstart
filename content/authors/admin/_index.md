@@ -23,6 +23,7 @@ bio: My research interests Bayesian methods for large spatial data sets and appl
 interests:
 - Bayesian Inference
 - Methods for Spatial Data
+- Interdisciplinary Research
 - Elections and Gerrymandering
 - Statistical Consulting
 - Public Policy
