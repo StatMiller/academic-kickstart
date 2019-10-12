@@ -31,4 +31,4 @@ url_video: ""
 slides: example
 ---
 
-Created a spatiotemporal model to predict US House of Representatives elections in North Carolina based on past demographic and election information. Our model performed extremely well despite using no polling data.
+Created a spatiotemporal model to predict US House of Representatives elections in North Carolina based on past demographic and election information. Our model performed extremely well despite using no polling data. Click on "PDF" button above to view poster.
