@@ -26,7 +26,7 @@ summary: A new measurement error model for image data applied to learning about 
 
 tags:
 - Spatial Statistics
-- Meaasurement Error Models
+- Measurement Error Models
 - Bayesian Hierarchical Modeling
 
 featured: true
