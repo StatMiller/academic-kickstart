@@ -1,9 +1,9 @@
 ---
-title: Example Talk
+title: Accounting for Location Measurement Error in Atomic Resolution Images of Crystalline Materials
 event: UNCG Regional Mathematics and Statistics Conference
 event_url: https://mathstats.uncg.edu/rmsc/
 location: Greensboro, North Carolina
-summary: Accounting for Location Measurement Error in Atomic Resolution Images of Crystalline Materials
+summary: Developing a new Bayesian Hierarchical model to account for measurement error using all the pixels in an image.
 abstract: "Scanning transmission electron microscopy can directly image the atomic structure of materials. To resolve this structure, the material must be aligned along a direction such that columns of atoms are projected onto the image. The local relationships between the intensities and distances of these projected atom columns can inform our understanding of structure--property relationships to ultimately further improve the materials. Measurement error in the atom column locations can, however, introduce bias into parameter estimates. Here, we create a spatial Bayesian hierarchical model that treats the locations as parameters to account for measurement error, and lower the computational burden by approximating the likelihood using a non-contiguous block design around the atom columns. We conduct a simulation study and analyze real data to compare our model to standard spatial and non-spatial models. The results show our method corrects the bias in the parameter of interest, drastically improving upon the standard models."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,7 +28,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/stat_miller
 url_code: ""
 url_pdf: ""
 url_slides: ""
