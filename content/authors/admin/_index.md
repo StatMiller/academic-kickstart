@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests Bayesian methods for large spatial data sets and applying new statistical methodologies election research, materials science, and public policy.
+bio: My research interests include Bayesian methods for large spatial data sets and applying new statistical methodologies to election research, materials science, and public policy.
 
 interests:
 - Bayesian Inference
