@@ -34,8 +34,8 @@ featured: true
 links:
 - name: Link
   url: 
-url_pdf: 
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/1910.14195.pdf'
+url_code: 'https://github.com/StatMiller/HierarchicalSTEM'
 url_dataset: ''
 url_poster: ''
 url_project: ''
