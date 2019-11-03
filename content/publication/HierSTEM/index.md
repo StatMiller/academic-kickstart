@@ -32,8 +32,6 @@ tags:
 featured: true
 
 links:
-- name: 
-  url: 
 url_pdf: 'https://arxiv.org/pdf/1910.14195.pdf'
 url_code: 'https://github.com/StatMiller/HierarchicalSTEM'
 url_dataset: ''
