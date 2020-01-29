@@ -33,4 +33,4 @@ url_video: ""
 slides: example
 ---
 
-Developed a method to address measurement error in finding atom column locations in STEM images. Measurement error causes underestimation of effects of interest. This method outperforms current methods that don't account for this error. Paper in review, with preprint [here](https://arxiv.org/abs/1910.14195)
+Developed a method to address measurement error in finding atom column locations in STEM images. Measurement error causes underestimation of effects of interest. This method outperforms current methods that don't account for this error. Paper in review, with preprint [here](https://arxiv.org/abs/1910.14195).
