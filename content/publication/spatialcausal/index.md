@@ -32,7 +32,7 @@ featured: true
 
 links:
 url_pdf: 'https://arxiv.org/pdf/2007.02714'
-url_code: 'https://github.com/StatMiller/HierarchicalSTEM'
+url_code: 'https://github.com/reich-group/SpatialCausalReview'
 url_dataset: ''
 url_poster: ''
 url_project: ''
