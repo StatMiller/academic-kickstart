@@ -10,21 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: NC State University
+- name: Google
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Bayesian methods for large spatial data sets and applying new statistical methodologies to election research, materials science, and public policy.
+bio: I work with software engineers and other stakeholders to create better products through data-driven decsions.
 
 interests:
 - Bayesian Inference
+- Causal Inference
 - Methods for Spatial Data
 - Interdisciplinary Research
-- Elections and Gerrymandering
 - Statistical Consulting
 - Public Policy
 
