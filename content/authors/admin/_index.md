@@ -21,12 +21,13 @@ organizations:
 bio: I work with software engineers and other stakeholders to create better products through data-driven decsions.
 
 interests:
-- Bayesian Inference
+- Metrics Development
 - Causal Inference
-- Methods for Spatial Data
-- Interdisciplinary Research
 - Statistical Consulting
+- Bayesian Inference
+- Spatial Data
 - Public Policy
+- Teaching
 
 education:
   courses:
@@ -76,4 +77,4 @@ email: ""
 # - Visitors
 ---
 
-I'm a data scientist at Google on the Search team. I earned my PhD in the [Department of Statistics](https://www.stat.ncsu.edu/) at North Carolina State University under the direction of [Dr. Brian Reich](https://www4.stat.ncsu.edu/~reich/index.html). In graduate school, I developed Bayesian statistical methods for spatial data and applied these methods to a variety of fields including materials and environmental science. I am a former [NSF SEAS Fellow](https://www.mse.ncsu.edu/seas/traineeship/#custom-tab-0-aa1e3b4f1a47d8195147da18eb4cd9a4) and won the Francis G. Giesbrecht Award for Statistical Consulting. Both of these accomplishments show my love for collaboration and helping others to understand statistics. Before graduate school, I was a high school mathematics teacher in the Durham, NC public schools system. Now, I collaborate with software engineers and other stakeholders to develop data-driven products.
+I'm a data scientist at Google on the Search team. I earned my PhD in the [Department of Statistics](https://www.stat.ncsu.edu/) at North Carolina State University under the direction of [Dr. Brian Reich](https://www4.stat.ncsu.edu/~reich/index.html). In graduate school, I developed Bayesian statistical methods for spatial data and applied these methods to a variety of fields including materials and environmental science. I am a former [NSF SEAS Fellow](https://www.mse.ncsu.edu/seas/traineeship/#custom-tab-0-aa1e3b4f1a47d8195147da18eb4cd9a4) and won the Francis G. Giesbrecht Award for Statistical Consulting. Both of these accomplishments highlight my love for collaboration and helping others to understand statistics. Before graduate school, I was a high school mathematics teacher in the Durham, NC public schools system. Now, I collaborate with software engineers and other stakeholders to develop data-driven products.
